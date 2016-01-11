@@ -1,0 +1,28 @@
+{
+    "name": "cdev38399/yii2-d3wordcloud",
+    "description": "D3 Word Cloud based on jasondavies\d3-cloud",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "cdev38399",
+            "email": "cdev38399@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+		"bower-asset/d3-cloud": "~1.2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "cdev38399\\d3wordcloud\\": ""
+        }
+    },
+	"repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/cdev38399/yii2-d3wordcloud"
+    }
+	]
+}
