@@ -13,6 +13,6 @@ class D3CloudAsset extends AssetBundle {
 
     public $sourcePath = '@bower/d3-cloud/build';
     public $css = [];
-    public $js = ['d3.layout.cloud.js'];
+    public $js = ['d3.layout.cloud.js', 'require.js'];
 
 }
