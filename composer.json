@@ -1,6 +1,6 @@
 {
     "name": "cdev38399/yii2-d3wordcloud",
-    "description": "D3 Word Cloud based on jasondavies\d3-cloud",
+    "description": "D3 Word Cloud based on jasondavies d3-cloud",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "BSD-3-Clause",
