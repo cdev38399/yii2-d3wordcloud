@@ -13,8 +13,7 @@
     "require": {
         "yiisoft/yii2": "*",
         "mbostock/d3":"~3.5.12",
-        "bower-asset/d3": "~3.5.0",
-	"bower-asset/d3-cloud": "~1.2.1"
+        "jasondavies/d3-cloud":"~1.2.1"
     },
     "autoload": {
         "psr-4": {
