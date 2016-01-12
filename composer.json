@@ -11,10 +11,11 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
-        "mbostock/d3":"~3.5.12",
-        "jasondavies/d3-cloud":"~1.2.1"
+        "yiisoft/yii2": "*"
     },
+    "dependencies": {
+    "jasondavies/d3-cloud": "1.2.1"
+  },
     "autoload": {
         "psr-4": {
             "cdev38399\\d3wordcloud\\": ""
