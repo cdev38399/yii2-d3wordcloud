@@ -11,11 +11,9 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "bower-asset/d3-cloud": "1.2.1"
     },
-    "dependencies": {
-    "d3-cloud": "1.2.1"
-  },
     "autoload": {
         "psr-4": {
             "cdev38399\\d3wordcloud\\": ""
