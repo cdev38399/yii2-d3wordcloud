@@ -14,7 +14,7 @@
         "yiisoft/yii2": "*"
     },
     "dependencies": {
-    "jasondavies/d3-cloud": "1.2.1"
+    "d3-cloud": "1.2.1"
   },
     "autoload": {
         "psr-4": {
