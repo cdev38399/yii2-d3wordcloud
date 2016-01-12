@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 
 class D3CloudAsset extends AssetBundle {
 
-    public $sourcePath = '@jasondavies/d3-cloud/build';
+    public $sourcePath = '@bower/d3-cloud/build';
     public $css = [];
     public $js = ['d3.layout.cloud.js'];
 
