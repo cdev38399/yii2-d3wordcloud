@@ -11,9 +11,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
-        "bower-asset/d3": "~3.5.12",
-        "bower-asset/d3-cloud": "~1.2.1"
+        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
